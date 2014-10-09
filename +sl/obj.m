@@ -25,6 +25,7 @@ classdef obj
             %    class(obj)
             %    temp.package.my_object
             %
+            % Project Page: http://danielhull.github.io/grill_code_library_danielhull/
             
             temp_str = class(obj);
             I   = strfind(temp_str,'.');
